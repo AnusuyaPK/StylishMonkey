@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main() {
-  printf("Edit by Anusuya in local machine");
+  printf("Edit by Sudha murthy in local machine");
 }
